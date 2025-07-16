@@ -2,7 +2,7 @@
 
 A  designed SwiftUI app for tracking top cryptocurrencies like Bitcoin, Ethereum, Solana, and more. Inspired by modern fintech apps, CryptoTracker Pro delivers an elegant, real-time-ready experience.
 
-![App Screenshot](screenshots/cryptotracker-ui.png)
+
 
 ## Features
 
@@ -12,18 +12,13 @@ A  designed SwiftUI app for tracking top cryptocurrencies like Bitcoin, Ethereum
 - Scalable for API integrations (CoinGecko, CoinMarketCap)
 - Designed for future App Store release
 
-## Screenshots
-
-| Main View | Dark Mode | Glassmorphic Cards |
-|-----------|-----------|--------------------|
-| ![1](screenshots/main1.png) | ![2](screenshots/darkmode.png) | ![3](screenshots/cards.png) |
 
 ## Built With
 
 - SwiftUI
 - Xcode
 - SF Symbols
-- Love for design ✨
+- Love for design 
 
 ## Roadmap
 
