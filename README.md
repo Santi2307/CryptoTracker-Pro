@@ -28,7 +28,7 @@ Right now it's a **UI prototype**. The prices are sample values written in the c
 
 ## Run it
 
-You need a Mac with macOS 14 or newer and the Swift toolchain (comes with Xcode or the Command Line Tools).
+You need a Mac with macOS Sonoma 14 or newer and the Swift toolchain (comes with Xcode or the Command Line Tools).
 
 ```bash
 git clone https://github.com/Santi2307/CryptoTracker-Pro.git
